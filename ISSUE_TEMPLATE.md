@@ -20,3 +20,4 @@ If this bug occurs in a modpack, please report this to the modpack author. Other
 #### Latest log file for when the issue was present:
 
 [pastebin/gist/etc link here]
+
